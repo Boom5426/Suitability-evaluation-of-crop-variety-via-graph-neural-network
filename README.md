@@ -12,7 +12,9 @@ With the continuous growth of the global population, insufficient food productio
 ![image](https://github.com/Boli-trainee/Suitability-evaluation-of-crop-variety-via-graph-neural-network/assets/83391363/a2d863c8-eb79-467a-ab73-8b729b1a9587)
 
 
-'''
+# Reference
+If you find this project is useful for your research, please cite:
+```
 @article{zhang2022suitability,
   title={Suitability Evaluation of Crop Variety via Graph Neural Network},
   author={Zhang, Qiusi and Li, Bo and Zhang, Yong and Wang, Shufeng},
@@ -21,6 +23,4 @@ With the continuous growth of the global population, insufficient food productio
   year={2022},
   publisher={Hindawi}
 }
-'''
-
-
+```
